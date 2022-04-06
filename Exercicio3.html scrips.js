@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="/scripts.js.html">Scripts</a> 
+    <a href="/https://eduarda1ds2022.w3spaces.com/scripts.js">Scripts</a> 
 </body>
 </html>
